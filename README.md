@@ -5,4 +5,4 @@
 
 **Description**
 
-Simple custom video player with adjustable sound, playback speed and rewind. Full-screen viewing option is implemented.
+A simple custom video player with a redesigned interface.
